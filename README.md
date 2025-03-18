@@ -2,7 +2,7 @@
 
 # Welcome to My Profile!
 
-Hello! I'm **ALABYEKKUBO SSUUBI BRIAN** (@BRIAN12682), a passionate developer from Kampala, Uganda. I have a deep interest in automating tasks, developing software, building machine learning models, creating Internet of Things (IoT) devices, and providing meaningful insights from data. 
+Hello! I'm **ALABYEKKUBO SSUUBI BRIAN** (@alabyekkubo-ssuubi-brian), a passionate developer from Kampala, Uganda. I have a deep interest in automating tasks, developing software, building machine learning models, creating Internet of Things (IoT) devices, and providing meaningful insights from data. 
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
