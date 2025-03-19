@@ -57,14 +57,14 @@ Hello! I'm **ALABYEKKUBO SSUUBI BRIAN** (@alabyekkubo-ssuubi-brian), a passionat
 
 
 ## 🌟 About Me
-<img src="https://github.com/BRIAN12682/BRIAN12682/blob/main/R (1).gif" alt="Skills and Abilities"></img>
+<img src="https://github.com/alabyekkubo-ssuubi-brian/alabyekkubo-ssuubi-brian/blob/main/R (1).gif" alt="Skills and Abilities"></img>
 - 👀 **Interests:** Machine Learning, Data Science, IoT, and Software Development.
 - 🌱 **Skills:** Python, CSS, HTML, Dart, Flutter, Django, Kivy, C, C++, Embedded C, Bootstrap.
 - 💞️ **Collaboration:** Always looking to collaborate on innovative projects.
 - 📫 **Contact:** [atbrian19@gmail.com](mailto:atbrian19@gmail.com), +256703737481.
 
 ## 🛠️ Soft-Skills and Abilities
-<img src="https://github.com/BRIAN12682/BRIAN12682/blob/main/1365101-921132596.gif" alt="Skills and Abilities"></img>
+<img src="https://github.com/alabyekkubo-ssuubi-brian/alabyekkubo-ssuubi-brian/blob/main/1365101-921132596.gif" alt="Skills and Abilities"></img>
 - Problem-solving skills
 - Critical Thinking
 - Teamwork and Collaboration
@@ -80,7 +80,7 @@ Hello! I'm **ALABYEKKUBO SSUUBI BRIAN** (@alabyekkubo-ssuubi-brian), a passionat
 
 
 ## 🏆 My Journey
-<img src="https://github.com/BRIAN12682/BRIAN12682/blob/main/R.gif" alt="Skills and Abilities"></img>
+<img src="https://github.com/alabyekkubo-ssuubi-brian/alabyekkubo-ssuubi-brian/blob/main/R.gif" alt="Skills and Abilities"></img>
 I started my programming career with web development in Django, then expanded to mobile app development with Flutter. My journey led me to integrate applications with machine learning to enhance efficiency and productivity. I have also worked on automation projects using Tkinter and Python, and embedded systems programming. I'm steadily progressing in these fields and am keen on exploring Robotics in Python.(As of 2022 October)
 
 ## 🌍 Location and Contact
@@ -88,23 +88,23 @@ I started my programming career with web development in Django, then expanded to
 - **Location:** Kampala, Uganda
 - **Email:** [atbrian19@gmail.com](mailto:atbrian19@gmail.com)
 - **Phone:** +256703737481
-<img src="https://github.com/BRIAN12682/BRIAN12682/blob/main/tenor.gif" alt="Skills and Abilities"></img>
+<img src="https://github.com/alabyekkubo-ssuubi-brian/alabyekkubo-ssuubi-brian/blob/main/tenor.gif" alt="Skills and Abilities"></img>
 
 ## 🤝 Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brian-ssuubi-alabyekkubo-b3851323b)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@alabyekkubossuubibrian6427)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100066431362210)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=purple)](https://github.com/BRIAN12682)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=purple)](https://github.com/alabyekkubo-ssuubi-brian)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://twitter.com/SsuubiBrian)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?logo=whatsapp&logoColor=white)](https://wa.me/+256703737481)
 
 
 ## 📊 GitHub Stats
 
-[![ALABYEKKUBO's GitHub stats](https://github-readme-stats.vercel.app/api?username=BRIAN12682)](https://github.com/anuraghazra/github-readme-stats)
+[![ALABYEKKUBO's GitHub stats](https://github-readme-stats.vercel.app/api?username=alabyekkubo-ssuubi-brian)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BRIAN12682&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alabyekkubo-ssuubi-brian&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=BRIAN12682&theme=onedark)
+![trophy](https://github-profile-trophy.vercel.app/?username=alabyekkubo-ssuubi-brian&theme=onedark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BRIAN12682)](https://github.com/BRIAN12682/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alabyekkubo-ssuubi-brian)](https://github.com/alabyekkubo-ssuubi-brian/github-readme-stats)
